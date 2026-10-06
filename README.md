@@ -14,5 +14,5 @@ I work with data to find insights and support decision-making. I have experience
 Projects will be added here soon.
 
 ## 📫 Contact
-- LinkedIn: (www.linkedin.com/in/ismat-ahmadli-6748a6419)
+- LinkedIn: [Ismat Ahmadli](https://www.linkedin.com/in/ismat-ahmadli-6748a6419)
 - Email: ismatahmadli97@gmail.com
