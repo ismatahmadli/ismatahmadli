@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ismat 👋
 
-<!--
-**ismatahmadli/ismatahmadli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Data Analyst** based in Baku, Azerbaijan.
 
-Here are some ideas to get you started:
+I work with data to find insights and support decision-making. I have experience in research, monitoring and analytical reporting, and I'm building my data analytics portfolio here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **SQL** – querying, joins, aggregations
+- **Excel** – data cleaning, formulas, pivot tables
+- **Tableau** and **Power BI** – dashboards and visualization
+- **Python** – data analysis
+
+## 📊 Projects
+Projects will be added here soon.
+
+## 📫 Contact
+- LinkedIn: (www.linkedin.com/in/ismat-ahmadli-6748a6419)
+- Email: ismatahmadli97@gmail.com
